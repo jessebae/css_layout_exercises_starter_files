@@ -4,9 +4,22 @@ body {
 }
 
 main {
-  padding-left: 90px;
-  padding-right: 90px;
+  padding-left: 85px;
+  padding-right: 85px;
   max-width: 1000px;
   margin-left: auto;
   margin-right: auto;
 }
+.neb-1 {
+  float:left;
+  margin: 15px 15px 15px 0;
+  width: 35%;
+}
+.neb-2 {
+  float: right;
+  margin: 15px 0 15px 15px;
+  width: 35%;
+}
+
+/* I could have made this more DRY by sizing the img element. I see there is less
+repetition of styles in the solution, but actualy more code. */
