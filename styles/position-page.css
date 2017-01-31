@@ -1,1 +1,18 @@
+/* POSITION PAGE */
+nav {
+  position:fixed;
+  background-color: gray;
+  height:60px;
+  width:100%;
+  padding: 0 60px;
+}
+nav img {
+  height: 100%;
 
+}
+ul, li {
+  display: inline;
+  background-color: blue;
+}
+
+*{ outline: 1px solid red; padding: 10px; }
