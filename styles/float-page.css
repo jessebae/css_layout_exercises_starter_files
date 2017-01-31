@@ -4,9 +4,20 @@ body {
 }
 
 main {
-  padding-left: 90px;
-  padding-right: 90px;
+  padding-left: 85px;
+  padding-right: 85px;
   max-width: 1000px;
   margin-left: auto;
   margin-right: auto;
+}
+img {
+  width: 35%;
+}
+.neb-1 {
+  float:left;
+  margin: 15px 15px 15px 0;
+}
+.neb-2 {
+  float: right;
+  margin: 15px 0 15px 15px;
 }
